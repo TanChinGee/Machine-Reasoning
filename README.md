@@ -1,4 +1,4 @@
-<<<<<<<<<<<<<<<<<<<<<<<<<Start of Template>>>>>>>>>>>>>>>>>>>>>>>>>>>
+﻿<<<<<<<<<<<<<<<<<<<<<<<<<Start of Template>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 SECTION 1: PROJECT TITLE
 
@@ -13,6 +13,10 @@ I used the KIE suite of tools, jBPM and Drools to enhance a mortgage application
 The mortgage application process was successfully implemented with the additional enhancements, and met the objectives of improving the business process and reducing mortgage loan defaults. This system can help banks generate higher profits by reducing losses and delivering better customer experience.
 
 SECTION 3: USER GUIDE
+
+To download project files, run command:
+`git clone https://github.com/TanChinGee/Machine-Reasoning.git`
+
 
 To run the system using iss-vm
 
